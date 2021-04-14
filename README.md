@@ -1,2 +1,1 @@
 # emojify
-private repo
